@@ -293,9 +293,9 @@ header {
 }
 .lastest-project-card .card-body {
   padding-inline: 5px;
-  height: 250px;
   border-bottom: 1px solid var(--color-fg);
   margin-bottom: 30px;
+  padding-bottom: 50px;
 }
 .card .card-body .sub-title,
 .project-item .sub-title {
